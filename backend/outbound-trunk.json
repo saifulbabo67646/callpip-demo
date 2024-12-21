@@ -1,0 +1,9 @@
+{
+    "trunk": {
+      "name": "callpip",
+      "address": "callpip.pstn.twilio.com",
+      "numbers": ["+14697170872"],
+      "auth_username": "callpip",
+      "auth_password": "Waterfall123"
+    }
+  }

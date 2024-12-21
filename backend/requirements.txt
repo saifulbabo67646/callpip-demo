@@ -1,0 +1,9 @@
+livekit-agents
+livekit-plugins-openai
+livekit-plugins-deepgram
+livekit-plugins-silero
+livekit-plugins-elevenlabs
+python-dotenv~=1.0
+livekit-api
+requests
+llama-index~=0.11.21

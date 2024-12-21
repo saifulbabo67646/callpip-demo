@@ -1,0 +1,9 @@
+{
+    "trunk": {
+      "name": "callpip-test",
+      "address": "testcallpip.pstn.twilio.com",
+      "numbers": ["+14784490207"],
+      "auth_username": "callpip",
+      "auth_password": "9PzvZF3T6ZgF7et"
+    }
+}

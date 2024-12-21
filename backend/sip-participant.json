@@ -1,0 +1,7 @@
+{
+    "sip_trunk_id": "ST_B8oHy22gKXGL",
+    "sip_call_to": "+8801640761640",
+    "room_name": "my-sip-room",
+    "participant_identity": "sip-test",
+    "participant_name": "Test Caller"
+  }

@@ -38,8 +38,8 @@ export type UserSettings = {
 
 // Fallback if NEXT_PUBLIC_APP_CONFIG is not set
 const defaultConfig: AppConfig = {
-  title: "Kno2gether Agency Playground",
-  description: "A playground for Dental Assistant at Knolabs Dental Agency",
+  title: "Zealkit Agency Playground",
+  description: "A playground for Dental Assistant at Gigalogy Dental Agency",
   video_fit: "cover",
   settings: {
     editable: true,

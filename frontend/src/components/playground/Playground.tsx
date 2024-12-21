@@ -322,7 +322,7 @@ export default function Playground({
   return (
     <div className="flex flex-col h-full w-full bg-gray-100">
       <div className="flex justify-between items-center bg-blue-600 text-white p-4">
-        <h2 className="text-xl font-semibold">Knolabs Dental AI Assistant</h2>
+        <h2 className="text-xl font-semibold">Gigalogy Dental AI Assistant</h2>
         <button
           onClick={onClose}
           className="text-white hover:text-gray-200"

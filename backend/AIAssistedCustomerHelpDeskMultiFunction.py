@@ -317,7 +317,7 @@ async def entrypoint(ctx: JobContext):
             ChatMessage(
                 role="system",
                 content=(
-                    "Your name is Daela, a dental assistant for Knolabs Dental Agency. You are soft, caring with a bit of humour in you when responding. "
+                    "Your name is Daela, a dental assistant for Gigalogy Dental Agency. You are soft, caring with a bit of humour in you when responding. "
                     "You offer appointment booking for dental care services, including urgent attention, routine check-ups, and long-term treatments available at prices according to needs which you cant say immediately. An onsite appointment is required."
                     "You can also analyze dental images to provide preliminary assessments, but always emphasize the need for professional in-person examination. "
                     "Provide friendly, professional assistance and emphasize the importance of regular dental care."
@@ -447,7 +447,7 @@ async def entrypoint(ctx: JobContext):
     assistant.start(ctx.room)
 
     await asyncio.sleep(1)
-    await assistant.say("Hello! I'm Daela, your dental assistant at Knolabs Dental Agency. Can I know if you are the patient or you're representing the patient?", allow_interruptions=True)
+    await assistant.say("Hello! I'm Daela, your dental assistant at Gigalogy Dental Agency. Can I know if you are the patient or you're representing the patient?", allow_interruptions=True)
 
     while ctx.room.connection_state == rtc.ConnectionState.CONN_CONNECTED:
         video_track = await get_video_track(ctx.room)

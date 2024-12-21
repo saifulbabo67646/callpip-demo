@@ -72,6 +72,3 @@ We've developed an innovative AI-powered Voice Agent that transforms traditional
 ## 🤝 Contact
 For more information or business inquiries, please contact:
 [Your Contact Information]
-
----
-* 2024 [Your Company Name]. All rights reserved.*

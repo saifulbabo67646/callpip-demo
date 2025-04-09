@@ -1,0 +1,1 @@
+from .voice_pipeline import CustomVoicePipelineAgent
